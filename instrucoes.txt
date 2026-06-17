@@ -1,0 +1,5 @@
+dart run server.dart
+
+em outro terminal
+
+flutter run -d chrome
